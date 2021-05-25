@@ -1,0 +1,26 @@
+(kicad_sch (version 20210406) (generator eeschema)
+
+  (uuid 8774f5f8-ecf4-4ca4-a6dc-3df0121425e9)
+
+  (paper "A3")
+
+  (title_block
+    (title "russian-woodpecker")
+    (date "2021-05-26")
+    (rev "r0.0")
+    (company "https://github.com/perigoso/russian-woodpecker")
+    (comment 2 "This source describes Open Hardware and is licensed under the CERN-OHL-Pv2")
+    (comment 4 "Copyright (c) Rafael Silva")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+
+  (symbol_instances
+  )
+)
