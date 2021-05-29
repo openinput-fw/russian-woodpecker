@@ -4,6 +4,8 @@
 
 the "russian woodpecker" is a usb HS (capable of 8kHz polling rate) 2.4GHz radio receiver dongle for use with input devices
 
+![russian woodpecker](assets/r0.0-boardview.png)
+
 ## Specifications
 - 8 kHz polling rate suppor
 - 2.4GHz radio
@@ -12,8 +14,8 @@ the "russian woodpecker" is a usb HS (capable of 8kHz polling rate) 2.4GHz radio
 
 ## Hardware
 
-- ~~ATSAMS3U~~ MCU as main controller (to be decided)
-- ~~nrf52810~~ MCU as radio receiver (to be decided)
+- ATSAMS3U MCU as main controller
+- nrf52810 MCU as radio receiver
 	- SPI connection between MCUs
 - USB A male connector
 
