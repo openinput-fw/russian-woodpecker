@@ -45,7 +45,7 @@
         "silk_text_upright": true,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 0.508
+          "min_clearance": 0.19999999999999998
         }
       },
       "diff_pair_dimensions": [
@@ -118,13 +118,16 @@
         "min_via_annular_width": 0.13,
         "min_via_diameter": 0.6,
         "solder_mask_clearance": 0.0,
-        "solder_mask_min_width": 0.0
+        "solder_mask_min_width": 0.0,
+        "use_height_for_length_calcs": true
       },
       "track_widths": [
         0.0,
         0.15,
         0.19,
+        0.228854,
         0.25,
+        0.29337,
         0.3,
         0.35,
         0.4,
@@ -379,9 +382,9 @@
       {
         "bus_width": 6.0,
         "clearance": 0.1499,
-        "diff_pair_gap": 0.15,
+        "diff_pair_gap": 0.1524,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.19,
+        "diff_pair_width": 0.228854,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -455,7 +458,8 @@
       "meta": {
         "version": 0
       },
-      "model_mode": 0
+      "model_mode": 0,
+      "workbook_filename": ""
     },
     "page_layout_descr_file": "",
     "plot_directory": "",
