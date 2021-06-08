@@ -1,10 +1,8 @@
 # russian-woodpecker
 
-`temporary name, to be determined`
+[<img src="assets/logo.svg" alt="" width="20%" align="right">](https://github.com/openinput-fw)
 
 the "russian woodpecker" is a usb HS (capable of 8kHz polling rate) 2.4GHz radio receiver dongle for use with input devices
-
-![russian woodpecker](assets/r0.0-boardview.png)
 
 ## Specifications
 - 8 kHz polling rate suppor
@@ -13,6 +11,8 @@ the "russian woodpecker" is a usb HS (capable of 8kHz polling rate) 2.4GHz radio
 - smol, but not that smol
 
 ## Hardware
+
+![russian woodpecker](assets/r0.1-boardview.png)
 
 - ATSAMS3U MCU as main controller
 - nrf52810 MCU as radio receiver
