@@ -730,7 +730,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model "/home/perigoso/Development/russian-woodpecker/kicad/modules/packages3d/led.wrl"
+    (model "${KIPRJMOD}/../kicad/modules/packages3d/led.wrl"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -813,7 +813,7 @@
       (net 104 "Net-(C4-Pad1)") (pinfunction "SHIELD") (pintype "passive") (tstamp 954bb5c2-09af-4cc6-8da0-66a1c3a33f2f))
     (pad "S1" thru_hole oval locked (at 4.32 1.05 270) (size 1 1.6) (drill oval 0.6 1.2) (layers *.Cu *.Mask)
       (net 104 "Net-(C4-Pad1)") (pinfunction "SHIELD") (pintype "passive") (tstamp 97da42ef-b303-4694-8cb5-3a3f49433be6))
-    (model "/home/perigoso/Development/russian-woodpecker/kicad/modules/packages3d/TYPE_C_12P.wrl"
+    (model "${KIPRJMOD}/../kicad/modules/packages3d/TYPE_C_12P.wrl"
       (offset (xyz -4.5 -3.6 0.05))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
