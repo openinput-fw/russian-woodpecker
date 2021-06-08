@@ -8,7 +8,7 @@
     (title "russian-woodpecker")
     (date "2021-05-26")
     (rev "r0.1")
-    (company "https://github.com/perigoso/russian-woodpecker")
+    (company "openinput                           https://github.com/openinput-fw/russian-woodpecker")
     (comment 2 "This source describes Open Hardware and is licensed under the CERN-OHL-Pv2")
     (comment 4 "Copyright (c) Rafael Silva")
   )
