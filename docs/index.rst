@@ -5,6 +5,24 @@ russian-woodpecker
 ******************
 *russian-woodpecker* is a usb HS (capable of 8kHz polling rate) 2.4GHz radio receiver dongle for use with input devices
 
+State of the project
+====================
+
+First prototype.
+
+.. admonition:: Roadmap
+
+   - Initial design |:+1:|
+   - First prototype manufactured and assembled |:hammer:|
+   - Barebones firmware support
+   - Documentation |:hammer:|
+   - Hardware improvements / V1
+
+   ========== ================
+   |:+1:|     Done!
+   |:hammer:| Work in progress
+   ========== ================
+
 Specifications
 ==============
 
@@ -24,23 +42,14 @@ Hardware
 * USB C connector
 * External antenna connector
 
-State of the project
-====================
+Firmware
+========
 
-First prototype.
+The plan:
 
-.. admonition:: Roadmap
+The device will need two firmwares, nrf52 will be updated through a spi bootloader by the main mcu, which will be updated through hid
 
-   - Initial design |:+1:|
-   - First prototype manufactured and assembled |:hammer:|
-   - Barebones firmware support
-   - Documentation |:hammer:|
-   - Hardware improvements / V1
-
-   ========== ================
-   |:+1:|     Done!
-   |:hammer:| Work in progress
-   ========== ================
+Both will include debug header
 
 
 .. toctree::

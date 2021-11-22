@@ -13,14 +13,6 @@ for more information.
 - 2.4GHz radio
 - smol, but not that smol
 
-## Firmware
-
-The plan:
-
-The device will need two firmwares, nrf52 will be updated through a spi bootloader by the main mcu, which will be updated through hid
-
-Both will include debug header
-
 ## License
 
 This hardware is licensed under the [CERN-OHL-P v2](LICENSE) license.
