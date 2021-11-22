@@ -8,18 +8,21 @@ russian-woodpecker
 Specifications
 ==============
 
-8 kHz polling rate suppor
-2.4GHz radio
-smol, but not that smol
+* 8 kHz polling rate suppor
+* 2.4GHz radio
+* smol, but not that smol
 
 Hardware
 ========
 
-ATSAMS3U MCU as main controller
-nrf52810 MCU as radio receiver
-SPI connection between MCUs
-USB C connector
-External antenna connector
+.. image:: assets/r0.1-boardview.png
+   :width: 50%
+
+* ATSAMS3U MCU as main controller
+* nrf52810 MCU as radio receiver
+   * SPI connection between MCUs
+* USB C connector
+* External antenna connector
 
 State of the project
 ====================
