@@ -56,5 +56,6 @@ Both will include debug header
    :caption: External Links
    :hidden:
 
+   Source <https://github.com/openinput-fw/russian-woodpecker>
    Firmware <https://openinput.readthedocs.io>
    Issue Tracker <https://github.com/openinput-fw/russian-woodpecker/issues>
